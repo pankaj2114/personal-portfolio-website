@@ -17,10 +17,10 @@ const Footer = () => {
       <li><a href="#contact">Contact</a></li>
     </ul>
     <div className='footer__social'>
-      <a href="https://www.linkedin.com/in/pankaj-kumar-verma-660457226/" target='__blank' rel="noreferrer"><FaLinkedin/></a>
-      <a href="https://github.com/pankaj2114" target='__blank' rel="noreferrer"><BsGithub/></a>
-      <a href="https://www.facebook.com/profile.php?id=100021547904346" target='__blank' rel="noreferrer"><FaFacebook/></a>
-      <a href="https://www.instagram.com/its_programmer_pp/" target='__blank' rel="noreferrer"><GrInstagram/></a>
+      <a href="https://www.linkedin.com/in/pankaj-kumar-verma-660457226/" target='_blank' rel="noreferrer"><FaLinkedin/></a>
+      <a href="https://github.com/pankaj2114" target='_blank' rel="noreferrer"><BsGithub/></a>
+      <a href="https://www.facebook.com/profile.php?id=100021547904346" target='_blank' rel="noreferrer"><FaFacebook/></a>
+      <a href="https://www.instagram.com/its_programmer_pp/" target='_blank' rel="noreferrer"><GrInstagram/></a>
     </div>
     <div className="footer__copyright">
       <small>&copy;Pankaj Kumar Verma. All rights reserved.</small>
