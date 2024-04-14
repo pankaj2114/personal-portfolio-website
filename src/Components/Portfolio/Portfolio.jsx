@@ -21,8 +21,8 @@ const Portfolio = () => {
           </div>
           <h3>CryptoBook</h3>
           <div className="portfolio__btn">
-          <a href="https://github.com/pankaj2114" className='btn' target='_blank' >Github</a>
-          <a href="https://extraordinary-nougat-eedf28.netlify.app/" className="btn btn-primary" target='_blank' >Live Demo</a>
+          <a href="https://github.com/pankaj2114" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://extraordinary-nougat-eedf28.netlify.app/" className="btn btn-primary" rel="noreferrer" target='_blank' >Live Demo</a>
           </div>
         </article>
 
@@ -32,8 +32,8 @@ const Portfolio = () => {
           </div>
           <h3>TODO List App</h3>
           <div className="portfolio__btn">
-          <a href="https://github.com/pankaj2114" className='btn' target='_blank' >Github</a>
-          <a href="https://delightful-vacherin-2bdf85.netlify.app/" className="btn btn-primary" target='_blank' >Live Demo</a>
+          <a href="https://github.com/pankaj2114" className='btn' rel="noreferrer" target='_blank' >Github</a>
+          <a href="https://delightful-vacherin-2bdf85.netlify.app/" rel="noreferrer" className="btn btn-primary" target='_blank' >Live Demo</a>
           </div>
         </article>
 
@@ -43,8 +43,8 @@ const Portfolio = () => {
           </div>
           <h3>Digital Clock</h3>
           <div className="portfolio__btn">
-          <a href="https://github.com/pankaj2114" className='btn' target='_blank' >Github</a>
-          <a href="https://helpful-sundae-e24172.netlify.app/" className="btn btn-primary" target='_blank' >Live Demo</a>
+          <a href="https://github.com/pankaj2114" className='btn' rel="noreferrer" target='_blank' >Github</a>
+          <a href="https://helpful-sundae-e24172.netlify.app/" rel="noreferrer" className="btn btn-primary" target='_blank' >Live Demo</a>
           </div>
         </article>
 
@@ -54,8 +54,8 @@ const Portfolio = () => {
           </div>
           <h3>Covid 19 Tacker</h3>
           <div className="portfolio__btn">
-          <a href="https://github.com/pankaj2114" className='btn' target='_blank' >Github</a>
-          <a href="https://coruscating-meringue-7b696a.netlify.app/" className="btn btn-primary" target='_blank' >Live Demo</a>
+          <a href="https://github.com/pankaj2114" className='btn' rel="noreferrer" target='_blank' >Github</a>
+          <a href="https://coruscating-meringue-7b696a.netlify.app/" rel="noreferrer" className="btn btn-primary" target='_blank' >Live Demo</a>
           </div>
         </article>
 
@@ -65,8 +65,8 @@ const Portfolio = () => {
           </div>
           <h3>Word Char Count</h3>
           <div className="portfolio__btn">
-          <a href="https://github.com/pankaj2114" className='btn' target='_blank' >Github</a>
-          <a href="https://word-counter-html-css-js.netlify.app/" className="btn btn-primary" target='_blank' >Live Demo</a>
+          <a href="https://github.com/pankaj2114" className='btn' rel="noreferrer" target='_blank' >Github</a>
+          <a href="https://word-counter-html-css-js.netlify.app/" rel="noreferrer" className="btn btn-primary" target='_blank' >Live Demo</a>
           </div>
         </article>
 
@@ -76,8 +76,8 @@ const Portfolio = () => {
           </div>
           <h3>TicTacToe Game</h3>
           <div className="portfolio__btn">
-          <a href="https://github.com/pankaj2114" className='btn' target='_blank' >Github</a>
-          <a href="https://tic-tac-toe-game-html-cs-js.netlify.app/" className="btn btn-primary" target='_blank' >Live Demo</a>
+          <a href="https://github.com/pankaj2114" className='btn' rel="noreferrer" target='_blank' >Github</a>
+          <a href="https://tic-tac-toe-game-html-cs-js.netlify.app/" rel="noreferrer" className="btn btn-primary" target='_blank' >Live Demo</a>
           </div>
         </article>
 

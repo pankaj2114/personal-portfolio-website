@@ -24,19 +24,19 @@ const Contact = () => {
             <AiOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>techpro9161@gmail.com</h5>
-            <a href="mailto: techpro9161@gmail.com" target='_blank'>Send a message</a>
+            <a href="mailto: techpro9161@gmail.com" target='_blank' rel="noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Pankaj Verma</h5>
-            <a href="http://m.me/profile.php?id=100021547904346" target='_blank'>Send a message</a>
+            <a href="http://m.me/profile.php?id=100021547904346" target='_blank' rel="noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <ImWhatsapp className='contact__option-icon'/>
             <h4>What's App</h4>
             <h5>9161741949</h5>
-            <a href="http://api.whatsapp.com//send?phone=+919161741949" target='_blank'>Send a message</a>
+            <a href="http://api.whatsapp.com//send?phone=+919161741949" target='_blank' rel="noreferrer">Send a message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail} >

@@ -32,7 +32,7 @@ const About = () => {
               <small>450+ Solved</small>
             </article>
           </div>
-          <p>I am Pankaj Kumar Verma, a proactive <b>Junior Software Engineer</b> with a Bachelor's Degree in Computer Science and Engineering from <b><a href="https://www.ccsuniversity.ac.in/scriet/" target='__blank'>Sir Chhotu Ram Institute of engineering and Technology,</a></b>  Chaudhary Charan Singh University Campus Meerut.My expertise lies in utilizing technologies such as <b>C#, SQL Server, ASP.NET, and ASP.NET MVC</b> to develop robust software solutions and contribute effectively to project success.</p>            
+          <p>I am Pankaj Kumar Verma, a proactive <b>Junior Software Engineer</b> with a Bachelor's Degree in Computer Science and Engineering from <b><a href="https://www.ccsuniversity.ac.in/scriet/" target='__blank' rel='noreferrer'>Sir Chhotu Ram Institute of engineering and Technology,</a></b>  Chaudhary Charan Singh University Campus Meerut.My expertise lies in utilizing technologies such as <b>C#, SQL Server, ASP.NET, and ASP.NET MVC</b> to develop robust software solutions and contribute effectively to project success.</p>            
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>    
       </div>
      </div>
