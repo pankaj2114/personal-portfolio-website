@@ -11,7 +11,7 @@ const Nav = () => {
   return (
     <>
     <nav className='nav__container'>
-      <a href="#" onClick={()=>setactive('#')} className= {active==='#'?'active':''} ><AiOutlineHome/></a>
+      <a href="/" onClick={()=>setactive('#')} className= {active==='#'?'active':''} ><AiOutlineHome/></a>
       <a href="#about" onClick={()=>setactive('about')} className= {active==='about'?'active':''}><FaRegUser/></a>
       <a href="#experience" onClick={()=>setactive('experience')} className= {active==='experience'?'active':''}><FaBook/></a>
       <a href="#portfolio" onClick={()=>setactive('portfolio')} className= {active==='portfolio'?'active':''}><RiServiceLine/></a>
