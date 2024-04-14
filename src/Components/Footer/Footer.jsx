@@ -8,9 +8,9 @@ const Footer = () => {
   return (
    <>
    <footer className="footer_section">
-    <a href="/" className='footer__logo'>Pankaj Kumar Verma</a>
+    <a href="#header_top" className='footer__logo'>Pankaj Kumar Verma</a>
     <ul className="permalinks">
-      <li><a href="/">Home</a></li>
+      <li><a href="#header_top">Home</a></li>
       <li><a href="#about">About</a></li>
       <li><a href="#experience">Skills</a></li>
       <li><a href="#portfolio">Projects</a></li>
