@@ -34,7 +34,7 @@ header {
 
 /* ////////// ME  /////// */
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
+    background: linear-gradient(var(--color-primary), #1d1f1eb8);
     width: 20rem;
     height: 25rem;
     position: absolute;
@@ -46,11 +46,14 @@ header {
     justify-content: center;
     overflow: hidden;
     padding: 3rem 1.5rem 1.5rem 1.5rem;
+    
 }
 
 .me img {
-    width: 15rem;
+    width: 20rem;
     height: 25rem;
+    transform: rotate(-8deg);
+    padding-right: 5%;
 }
 
 /* //// scroll dowm//// */

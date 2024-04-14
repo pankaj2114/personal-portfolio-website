@@ -7,8 +7,8 @@ const Experience = () => {
       <h5> What skills I have</h5>
        <h2>Skills</h2>
       <div className="container experience__container">
-       <div className="experience__frontend">
-        <h3>Frontend Development</h3>
+       <div className="experience__frontend"> 
+        <h3>Frontend Technology</h3>
         <div className="experience__content">
             <article className='experience__detail'>
              <div className="verified">
@@ -43,7 +43,7 @@ const Experience = () => {
               <GoVerified className="experience__detail-icon" />
               <h4>J QUERY</h4>
               </div>
-              <small className="text-light">Basic</small>
+              <small className="text-light">Intermediate</small>
             </article>
             <article className='experience__detail'>
              <div className="verified">
@@ -57,43 +57,50 @@ const Experience = () => {
 
 
        <div className="experience__backend">
-       <h3>Extra Skills</h3>
+       <h3>Backend Technology</h3>
         <div className="experience__content">
             <article className='experience__detail'>
              <div className="verified">
               <GoVerified className="experience__detail-icon" />
-              <h4>C and C++</h4>
-              </div>
-              <small className="text-light">Programming Language</small>
-            </article>
-            <article className='experience__detail'>
-             <div className="verified">
-              <GoVerified className="experience__detail-icon" />
-              <h4>Data Structure</h4>
+              <h4>C#, C++ & JAVA</h4>
               </div>
               <small className="text-light">Intermediate</small>
             </article>
             <article className='experience__detail'>
              <div className="verified">
               <GoVerified className="experience__detail-icon" />
-              <h4>Problem Solving</h4>
-              </div>
-              <small className="text-light">Beginer</small>
-            </article>
-            <article className='experience__detail'>
-             <div className="verified">
-              <GoVerified className="experience__detail-icon" />
-              <h4>DBMS</h4>
+              <h4>ASP.Net Web Forms</h4>
               </div>
               <small className="text-light">Intermediate</small>
             </article>
             <article className='experience__detail'>
              <div className="verified">
               <GoVerified className="experience__detail-icon" />
-              <h4>OOPs</h4>
+              <h4>ASP.Net MVC</h4>
               </div>
               <small className="text-light">Intermediate</small>
-            </article>            
+            </article>
+            <article className='experience__detail'>
+             <div className="verified">
+              <GoVerified className="experience__detail-icon" />
+              <h4>ASP.Net Web APIs</h4>
+              </div>
+              <small className="text-light">Intermediate</small>
+            </article>
+            <article className='experience__detail'>
+             <div className="verified">
+              <GoVerified className="experience__detail-icon" />
+              <h4>MS SQL Server</h4>
+              </div>
+              <small className="text-light">Intermediate</small>
+            </article>         
+            <article className='experience__detail'>
+             <div className="verified">
+              <GoVerified className="experience__detail-icon" />
+              <h4>GIT & SVN</h4>
+              </div>
+              <small className="text-light">Version Control System</small>
+            </article>     
         </div>
        </div>
        
