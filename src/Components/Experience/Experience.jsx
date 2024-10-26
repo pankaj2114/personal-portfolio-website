@@ -76,14 +76,14 @@ const Experience = () => {
             <article className='experience__detail'>
              <div className="verified">
               <GoVerified className="experience__detail-icon" />
-              <h4>ASP.Net MVC</h4>
+              <h4>ASP.Net Core MVC</h4>
               </div>
               <small className="text-light">Intermediate</small>
             </article>
             <article className='experience__detail'>
              <div className="verified">
               <GoVerified className="experience__detail-icon" />
-              <h4>ASP.Net Web APIs</h4>
+              <h4>ASP.Net Core APIs</h4>
               </div>
               <small className="text-light">Intermediate</small>
             </article>
